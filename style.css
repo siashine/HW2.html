@@ -1,5 +1,5 @@
 html {
-  background: url(img/images.jpg);
+  background-color: rgba(240, 248, 255, 0.944)
 }
 
 * {
@@ -46,21 +46,13 @@ html {
 .home_page {
   position: absolute;
   top: 50%;
-  left: 40%; 
-  bottom: 7em;
-  margin-right: 50%; 
+  left: 50%; 
+  bottom: 0;
+  margin-right: 100%; 
   transform: translate(-50%, -50%);
   font-size: 1.5rem;
   width: 50%;
   height: 100%;
-  background-color: rgba(240, 248, 255, 0.944);
-  margin-top: 3em;
-  margin-left: 7em;
-  margin-bottom: 7em;
-  padding-left: 2em;
-  padding-top: 3em;
-  padding-right: 2em;
-  padding-bottom: 7em;
   text-align: center; 
 }
 
