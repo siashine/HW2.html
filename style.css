@@ -25,7 +25,7 @@ html {
   margin-right: 30%;
   line-height: 0.85em;
   color: #1a2c47d1;
-  border: 1px solid #1a2c47d1;
+  border: 0.5px solid #1a2c47d1;
   background: #ffffff;
   font-size: 2rem;
   color: #0e264a;
@@ -35,7 +35,7 @@ html {
 
 .contacts:hover {
   color: #0e264a;
-  border: 1px solid #0e264a;
+  border: 0.5px solid #1a2c47d1;
   background: #ffffff;
   padding: 13px 19px 13px 19px;
   margin-right: 30%;
@@ -106,7 +106,7 @@ a:hover {
   align-items: center;
   padding: 13px 19px 13px 19px;
   min-height: 45px;
-  border: 1px solid #34b8f1a3;
+  border: 0.5px solid #1a2c47d1;
   background-color: #34b8f1a3;
   color: #fefefe;
   text-decoration: none;
@@ -125,7 +125,7 @@ a:hover {
   align-items: center;
   padding: 13px 19px 13px 19px;
   min-height: 45px;
-  border: 1px solid #3ecf8e;
+  border: 0.5px solid #1a2c47d1;
   background-color: #25d3658c;
   color: #fefefe;
   text-decoration: none;
@@ -144,7 +144,7 @@ a:hover {
   align-items: center;
   padding: 13px 19px 13px 19px;
   min-height: 45px;
-  border: 1px solid #fefefe;
+  border: 0.5px solid #1a2c47d1;
   background-color: #247293a3;
   color: #fefefe;
 }
